@@ -2,5 +2,5 @@
   "postos": [
     {"posto": "shell", "cidade": "cuiaba", "gasolina": 3.5 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" , "alteracaoooo": "funcionou"}
 }
