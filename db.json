@@ -1,6 +1,22 @@
 {
   "postos": [
-    {"posto": "shell", "cidade": "cuiaba", "gasolina": 3.5 }
+    { "img": "https://www.gasoradar.com.br/admin/files/gas_station_images/2020/02/22/shell.png",
+      "posto": "Posto Aldo", 
+      "endereco": "Rodovia dos Imigrantes, Km 05", 
+      "Bairro": "Distrito Industrial" ,
+      "gasolina": 5.40,
+      "localizacao": "https://www.bing.com/maps?osid=129afabd-02ed-4310-824b-4b9bb588b8d4&cp=-15.683541~-56.056997&lvl=14&v=2&sV=2&form=S00027"
+    },
+
+     {"img": "https://www.gasoradar.com.br/admin/files/gas_station_images/2020/02/22/petrobras.png",
+       "posto": "Paradise Auto Posto", 
+      "endereco": "Rua Barao de Melgaco, 1029 Esq C/ Av 8 de Abril", 
+      "Bairro": "Porto" ,
+      "gasolina": 5.66,
+      "localizacao": "https://www.bing.com/maps?osid=b1fd596b-629b-4416-9570-fc8be348e186&cp=-15.611686~-56.131755&lvl=15&v=2&sV=2&form=S00027"
+    },
+
+    
   ],
   "profile": { "name": "typicode" , "alteracaoooo": "funcionou"}
 }
