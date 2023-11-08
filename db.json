@@ -5,6 +5,8 @@
       "endereco": "Rodovia dos Imigrantes, Km 05", 
       "Bairro": "Distrito Industrial" ,
       "gasolina": 5.40,
+      "etanol": 4.99,
+      "diesel": 6.57,
       "localizacao": "https://www.bing.com/maps?osid=129afabd-02ed-4310-824b-4b9bb588b8d4&cp=-15.683541~-56.056997&lvl=14&v=2&sV=2&form=S00027"
     },
 
@@ -13,10 +15,86 @@
       "endereco": "Rua Barao de Melgaco, 1029 Esq C/ Av 8 de Abril", 
       "Bairro": "Porto" ,
       "gasolina": 5.66,
+      "etanol": 3.27,
+      "diesel": 6.99,
       "localizacao": "https://www.bing.com/maps?osid=b1fd596b-629b-4416-9570-fc8be348e186&cp=-15.611686~-56.131755&lvl=15&v=2&sV=2&form=S00027"
-    }
+    },
 
+    {
+    "img":"https://www.gasoradar.com.br/admin/files/gas_station_images/2020/02/22/branca.png",
+    "posto":"Posto Amazonia 5",
+    "endereco":"Rua Joaquim Murtinho nº 810 Esquina com Avenida Dom Bosco - Centro Sul, Cuiabá - MT, 78020-290",
+    "bairro":"Centro Sul",
+    "gasolina": 5.57,
+    "etanol": 2.97,
+    "diesel": 6.67,
+    "localizacao": "https://www.google.com.br/maps/place/Posto+Amaz%C3%B4nia+05/@-15.6019079,-56.1181791,14z/data=!4m10!1m2!2m1!1sPosto+amazonia+5!3m6!1s0x939db1ed2f45db8d:0xf7dcbf3f051117c4!8m2!3d-15.6019079!4d-56.1006696!15sChBQb3N0byBhbWF6b25pYSA1kgELZ2FzX3N0YXRpb27gAQA!16s%2Fg%2F1ptw2f5r9?entry=ttu"
+    },
+
+    {
+    "img":"https://www.gasoradar.com.br/admin/files/gas_station_images/2020/02/22/petrobras.png",
+    "posto":"Posto  Santa Elisa - Miguel Sutil",
+    "endereco":"Av. Historiador Rubens de Mendonça, 2 - Baú, Cuiabá - MT, 78008-000",
+    "bairro":"Baú",
+    "gasolina": 5.74,
+    "etanol": 3.39,
+    "diesel": 6.19,
+    "localizacao": "https://www.google.com.br/maps/place/Av.+Historiador+Rubens+de+Mendon%C3%A7a,+2+-+Ba%C3%BA,+Cuiab%C3%A1+-+MT,+78008-000/@-15.5930523,-56.0921965,17z/data=!3m1!4b1!4m5!3m4!1s0x939db1962f29bfa3:0xf5c5e08c4bded327!8m2!3d-15.5930523!4d-56.0921965?entry=ttu"
+    },
+
+    {
+    "img":"https://www.gasoradar.com.br/admin/files/gas_station_images/2020/02/22/branca.png",
+    "posto":"Posto XV",
+    "endereco":"Av. XV de Novembro, 30 - Centro Sul, Cuiabá - MT, 78080-450",
+    "bairro":"Centrol Sul",
+    "gasolina": 5.63,
+    "etanol": 5.63,
+    "diesel": 6.13,
+    "localizacao": "https://www.google.com.br/maps/place/Rede+de+Postos+Santa+Maria/@-15.6101935,-56.1019391,17z/data=!4m10!1m2!2m1!1sposto+xv+de+novembro!3m6!1s0x939db1ee9b762d63:0x8ee34f72ea81d344!8m2!3d-15.6066935!4d-56.0994089!15sChRwb3N0byB4diBkZSBub3ZlbWJyb5IBC2dhc19zdGF0aW9u4AEA!16s%2Fg%2F1pv0_s4jw?entry=ttu"
+    },
+    
+    {
+    "img":"https://www.gasoradar.com.br/admin/files/gas_station_images/2020/02/22/branca.png",
+    "posto":"Posto Vitória",
+    "endereco":"Av. República do Líbano, 30 - Sr. dos Passos, Cuiabá - MT, 78048-135",
+    "bairro":"Sr. dos Passos",
+    "gasolina":5.55 ,
+    "etanol":3.17,
+    "diesel":5.55 ,
+    "localizacao": "https://www.google.com.br/maps/place/Posto+Vit%C3%B3ria/@-15.581552,-56.0889017,17z/data=!3m1!4b1!4m6!3m5!1s0x939db1a0ffa031ff:0xa9c63a83a0c857b7!8m2!3d-15.581552!4d-56.0889017!16s%2Fg%2F1vnrm2sj?entry=ttu"
+    },
+    
+    {
+    "img":"https://www.gasoradar.com.br/admin/files/gas_station_images/2020/02/22/branca.png",
+    "posto":"Posto positivo",
+    "endereco":"Av. Miguel Sutil, 595 - Dom Aquino, Cuiabá - MT, 78015-200",
+    "bairro":"Dom Aquino",
+    "gasolina": 5.49,
+    "etanol": 3.05,
+    "diesel": 6.49,
+    "localizacao": "https://www.google.com.br/maps/place/Auto+Posto+Positivo/@-15.61396,-56.0863579,17z/data=!3m1!4b1!4m6!3m5!1s0x939db17efeb403c3:0x6cb2c5b77965542f!8m2!3d-15.61396!4d-56.0863579!16s%2Fg%2F1ydnty8m7?entry=ttu"
+    },
+
+    {
+    "img":"https://www.gasoradar.com.br/admin/files/gas_station_images/2020/02/22/branca.png",
+    "posto":"Posto Redeserv",
+    "endereco":"Av. Mal. Deodoro, 119 - Santa Helena, Cuiabá - MT, 78030-400",
+    "bairro":"Santa Helena",
+    "gasolina":5.45,
+    "etanol":3.15,
+    "diesel":6.57,
+    "localizacao": "https://www.google.com.br/maps/@-15.5829377,-56.0918223,3a,75y,118.73h,94.9t/data=!3m6!1e1!3m4!1stRg0qZ2PswmzL4yBbxSSBg!2e0!7i16384!8i8192?entry=ttu"
+    },
+
+    {
+    "img":"https://www.gasoradar.com.br/admin/files/gas_station_images/2020/02/22/branca.png",
+    "posto":"Posto Emboava Miguel Sutil",
+    "endereco":"Av. Miguel Sutil, 4708 - Alvorada, Cuiabá - MT, 78060-0000",
+    "bairro":"Alvorada",
+    "gasolina": 5.45,
+    "etanol": 3.15,
+    "diesel": 5.45,
+    "localizacao": "https://www.google.com.br/maps/place/Emboava/@-15.5850554,-56.0875855,17z/data=!3m1!4b1!4m6!3m5!1s0x939db1a3eafa54db:0xb0c366269fd15923!8m2!3d-15.5850554!4d-56.0875855!16s%2Fg%2F11j20nhd77?entry=ttu"
+    }  
     
   ],
-  "profile": { "name": "typicode" , "alteracaoooo": "funcionou"}
-}
